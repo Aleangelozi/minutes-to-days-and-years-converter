@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657415110 source:/home/alessandro/CodeBlocksProjects/MinutesToDaysAndYearsConverter/main.c
+	<stdio.h>
+	<stdlib.h>
+
