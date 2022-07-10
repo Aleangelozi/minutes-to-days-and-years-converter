@@ -6,7 +6,6 @@ and convert this value to days and years format.
 
 The program should display both the inputed and the converted value.
 
-Program variables: minutes, minutes in year, Years, Days.
 */
 
 int main()
